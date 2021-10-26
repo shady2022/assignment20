@@ -1,7 +1,7 @@
 # assignment20
 :basecamp: #snake game
 
- 	:snake:
+:snake:
 
 
 
